@@ -5,7 +5,7 @@ public class AppPosto {
 		
 		b1.abastecerPorLitro(45);
 		b1.exibirRecibo();
-		
+		//te
 		System.out.println("\n\n");
 		b1.abastecerPorValor(150.0);
 		b1.exibirRecibo();
